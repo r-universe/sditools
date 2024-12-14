@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "adobeanalyticsr"]
-	path = adobeanalyticsr
-	url = https://github.com/sditools/adobeanalyticsr
 [submodule "statsearchanalyticsr"]
 	path = statsearchanalyticsr
 	url = https://github.com/sditools/statsearchanalyticsr
